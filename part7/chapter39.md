@@ -27,4 +27,4 @@ SCN2A의 교훈은 자폐 유전학의 더 넓은 원칙을 잘 보여주는 사
 
 Ben-Shalom, R., Keeshen, C. M., et al. (2017). Opposing effects on NaV1.2 function underlie differences between SCN2A variants observed in individuals with autism spectrum disorder or infantile seizures. *Biological Psychiatry*, 82(3), 224-232. doi:10.1016/j.biopsych.2017.01.009
 
-Sanders, S. J., Campbell, A. J., Cottrell, J. R., et al. (2018). Progress in understanding and treating SCN2A-mediated disorders. *Trends in Neurosciences*, 41(7), 442-456. doi:10.1016/j.tins.2018.03.011
+Sanders, S. J., Campbell, A. J., Cottrell, J. R., et al. (2018). Progress in understanding and treating SCN2A-mediated disorders. *Trends in Neurosciences*, 41(7), 442-456. doi:10.1016/j.tics.2018.11.002

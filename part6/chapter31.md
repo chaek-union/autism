@@ -31,4 +31,4 @@ Li, C., Fleck, J. S., Martins-Costa, C., et al. (2023). Single-cell brain organo
 
 Meng, X., Yao, D., Imaizumi, K., et al. (2023). Assembloid CRISPR screens reveal impact of disease genes in human neurodevelopment. *Nature*, 622(7982), 359-366. doi:10.1038/s41586-023-06564-w
 
-Shi, Y., et al. (2026). Genome-scale functional mapping of the mammalian brain with in vivo Perturb-seq. *Nature*. doi:10.1038/s41586-026-08910-2
+Shi, Y., et al. (2026). Genome-scale functional mapping of the mammalian brain with in vivo Perturb-seq. *Nature*. doi:10.64898/2026.03.16.711480

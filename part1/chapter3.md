@@ -29,7 +29,7 @@ BAP 연구가 축적되면서, 자폐적 특성이 인구 전체에 연속적으
 
 **References**
 
-Bishop, D. V., Maybery, M., Maley, A., Wong, D., Hill, W., & Hallmayer, J. (2008). Using self-report to identify the broad phenotype in parents of children with autistic spectrum disorders. *Journal of Child Psychology and Psychiatry*, 45(8), 1431-1436. doi:10.1111/j.1469-7610.2004.00325.x
+Bishop, D. V., Maybery, M., Maley, A., Wong, D., Hill, W., & Hallmayer, J. (2008). Using self-report to identify the broad phenotype in parents of children with autistic spectrum disorders. *Journal of Child Psychology and Psychiatry*, 45(8), 1431-1436. doi:10.1111/j.1469-7610.2007.01817.x
 
 Constantino, J. N., Zhang, Y., Frazier, T., Abbacchi, A. M., & Law, P. (2013). Autism recurrence in half siblings: Strong support for genetic mechanisms of transmission in ASD. *Molecular Psychiatry*, 18(2), 137-138. doi:10.1038/mp.2012.9
 
@@ -47,4 +47,4 @@ Piven, J., Palmer, P., Landa, R., Santangelo, S., Jacobi, D., & Childress, D. (1
 
 Sandin, S., Lichtenstein, P., Kuja-Halkola, R., Larsson, H., Hultman, C. M., & Reichenberg, A. (2014). The familial risk of autism. *JAMA*, 311(17), 1770-1777. doi:10.1001/jama.2014.4144
 
-Sasson, N. J., Lam, K. S. L., Childress, D., Parlier, M., Daniels, J. L., & Piven, J. (2013). The Broad Autism Phenotype Questionnaire: Prevalence and diagnostic classification. *Autism Research*, 6(2), 134-143. doi:10.1002/aur.1272
+Sasson, N. J., Lam, K. S. L., Childress, D., Parlier, M., Daniels, J. L., & Piven, J. (2013). The Broad Autism Phenotype Questionnaire: Prevalence and diagnostic classification. *Autism Research*, 6(2), 134-143. doi:10.1002/aur.1280

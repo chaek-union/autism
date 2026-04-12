@@ -35,6 +35,6 @@ Lim, E. T., Raychaudhuri, S., Sanders, S. J., Stevens, C., Sabo, A., MacArthur, 
 
 Rosenberg, N. A., et al. (2013). Runs of homozygosity and parental relatedness in autism spectrum disorder. *Genetics in Medicine*, 15(12), 988-989. doi:10.1038/gim.2013.136
 
-Szpiech, Z. A., Xu, J., Pemberton, T. J., Peng, W., Zöllner, S., Rosenberg, N. A., & Li, J. Z. (2013). Long runs of homozygosity are enriched for deleterious variation. *American Journal of Human Genetics*, 93(1), 90-102. doi:10.1016/j.ajhg.2013.05.003
+Szpiech, Z. A., Xu, J., Pemberton, T. J., Peng, W., Zöllner, S., Rosenberg, N. A., & Li, J. Z. (2013). Long runs of homozygosity are enriched for deleterious variation. *American Journal of Human Genetics*, 93(1), 90-102. doi:10.1016/j.ajhg.2013.01.004
 
 Yu, T. W., Chahrour, M. H., Bhatt, S. S., Bhatt, D. L., & Walsh, C. A. (2013). Using whole-exome sequencing to identify inherited causes of autism. *Neuron*, 77(2), 259-273. doi:10.1016/j.neuron.2013.10.002

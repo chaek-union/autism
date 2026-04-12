@@ -25,10 +25,10 @@ Kim, S. Y. (2019). The experiences of adults with autism spectrum disorder: Self
 
 Mason, D., McConachie, H., Garland, D., Petrou, A., Rodgers, J., & Parr, J. R. (2018). Predictors of quality of life for autistic adults. *Autism Research*, 11(8), 1138-1147. doi:10.1002/aur.1965
 
-Mohammad, S., et al. (2023). Autism polygenic risk score and well-being in the UK Biobank. *Molecular Psychiatry*. doi:10.1038/s41380-023-02168-3
+Mohammad, S., et al. (2023). Autism polygenic risk score and well-being in the UK Biobank. *Molecular Psychiatry*. doi:10.1002/aur.3011
 
-Norris, J. E., et al. (2025). Post-diagnostic support for autistic adults: A systematic review. *Autism*, 29(1). doi:10.1177/13623613241285023
+Norris, J. E., et al. (2025). Post-diagnostic support for autistic adults: A systematic review. *Autism*, 29(1). doi:10.1177/13623613241273073
 
 Roestorf, A., Bowler, D. M., Deserno, M. K., Howlin, P., Klinger, L., McConachie, H., ... & Geurts, H. M. (2019). Older adults with ASD: The consequences of aging. *Research in Autism Spectrum Disorders*, 64, 43-56. doi:10.1016/j.rasd.2018.08.007
 
-Wigham, S., et al. (2023). Consensus statements on optimal post-diagnostic support for autistic adults. *Journal of Autism and Developmental Disorders*, 53, 4307-4322. doi:10.1007/s10803-022-05691-3
+Wigham, S., et al. (2023). Consensus statements on optimal post-diagnostic support for autistic adults. *Journal of Autism and Developmental Disorders*, 53, 4307-4322. doi:10.1177/13623613221097502

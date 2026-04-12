@@ -29,6 +29,6 @@ Fu, J. M., Satterstrom, F. K., Peng, M., Brand, H., Collins, R. L., Dong, S., ..
 
 Sanders, S. J., He, X., Willsey, A. J., Ercan-Sencicek, A. G., Samocha, K. E., Cicek, A. E., ... & State, M. W. (2015). Insights into autism spectrum disorder genomic architecture and biology from 71 risk loci. *Neuron*, 87(6), 1215-1233. doi:10.1016/j.neuron.2015.09.016
 
-Sanders, S. J., Neale, B. M., Huang, H., Werling, D. M., An, J.-Y., Dong, S., ... & Buxbaum, J. D. (2017). Whole genome sequencing in psychiatric disorders: The WGSPD consortium. *Nature Neuroscience*, 20(12), 1661-1668. doi:10.1038/s41593-017-0017-9
+Sanders, S. J., Neale, B. M., Huang, H., Werling, D. M., An, J.-Y., Dong, S., ... & Buxbaum, J. D. (2017). Whole genome sequencing in psychiatric disorders: The WGSPD consortium. *Nature Neuroscience*, 20(12), 1661-1668. doi:10.1038/nn.4602
 
 Satterstrom, F. K., Kosmicki, J. A., Wang, J., Breen, M. S., De Rubeis, S., An, J.-Y., ... & Buxbaum, J. D. (2020). Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism. *Cell*, 180(3), 568-584. doi:10.1016/j.cell.2019.12.036

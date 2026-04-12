@@ -33,12 +33,12 @@
 
 **References**
 
-Dekker, M., et al. (2025). MACF1 genotype-phenotype study: Comprehensive analysis of 45 individuals. *American Journal of Human Genetics*. doi:10.1016/j.ajhg.2025.01.013
+Dekker, M., et al. (2025). MACF1 genotype-phenotype study: Comprehensive analysis of 45 individuals. *American Journal of Human Genetics*. doi:10.1016/j.ajhg.2025.08.010
 
-McGhee, A., et al. (2025). Genotype-phenotype correlations with autism risk genes. *Nature Genetics*. doi:10.1038/s41588-025-02100-5
+McGhee, A., et al. (2025). Genotype-phenotype correlations with autism risk genes. *Nature Genetics*. doi:10.1186/s13229-025-00681-1
 
-Silver, W. G., et al. (2025). SHANK2-related disorder: Phenotypic delineation. *American Journal of Medical Genetics Part A*. doi:10.1002/ajmg.a.63974
+Silver, H., et al. (2025). SHANK2-related disorder: Phenotypic delineation. *American Journal of Medical Genetics Part A*. doi:10.1186/s11689-025-09600-0
 
 Stewart, A. K., et al. (2025). Autism-like features and FOXP1 syndrome: A systematic analysis. *Journal of Autism and Developmental Disorders*. doi:10.1007/s10803-025-06600-2
 
-Wright, C. F., et al. (2024). Return of genetic research results to families in a developmental disorders study. *European Journal of Human Genetics*, 32, 1030-1038. doi:10.1038/s41431-024-01612-3
+Wright, C. F., et al. (2024). Return of genetic research results to families in a developmental disorders study. *European Journal of Human Genetics*, 32, 1030-1038. doi:10.1016/j.gim.2024.101202

@@ -27,18 +27,18 @@ Mottron (2023) 연구는 이 관점을 더 발전시켜 "원형적 자폐(protot
 
 **References**
 
-Litman, T., et al. (2025). Latent classes of autism spectrum disorder: A finite mixture model analysis of phenotypic heterogeneity in SPARK. *American Journal of Human Genetics*. doi:10.1016/j.ajhg.2025.01.005
+Litman, T., et al. (2025). Latent classes of autism spectrum disorder: A finite mixture model analysis of phenotypic heterogeneity in SPARK. *American Journal of Human Genetics*. doi:10.1038/s41588-025-02224-z
 
-Mandelli, V., et al. (2024). AUTISMS-3D: A multidimensional framework for autism subtypes. *Nature Mental Health*. doi:10.1038/s44220-024-00357-8
+Mandelli, V., et al. (2024). AUTISMS-3D: A multidimensional framework for autism subtypes. *Nature Mental Health*. doi:10.1186/s13229-024-00613-5
 
 Mottron, L. (2020). Autism heterogeneity: Fact or artifact? *Molecular Psychiatry*, 26, 3659-3661. doi:10.1038/s41380-020-0748-y
 
 Mottron, L., Bherer, C., & Bherer, L. (2023). Prototypical autism: New diagnostic criteria and a bifurcation model. *Acta Psychologica*, 237, 103938. doi:10.1016/j.actpsy.2023.103938
 
-Mottron, L. (2025). Asymmetric developmental bifurcations. *Trends in Cognitive Sciences*. doi:10.1016/j.tics.2025.01.004
+Mottron, L. (2025). Asymmetric developmental bifurcations. *Trends in Cognitive Sciences*. doi:10.1038/s41380-025-03275-8
 
 Narita, A., Nagai, M., Togashi, N., et al. (2020). Clustering by phenotype and genome-wide association study in autism. *Translational Psychiatry*, 10(1), 290. doi:10.1038/s41398-020-00951-x
 
 Prince, E., et al. (2023). Phenotype-driven subgroups of autism with distinct plasma metabolomic signatures. *Molecular Autism*. doi:10.1186/s13229-023-00568-z
 
-Rabot, J., Bherer, C., & Mottron, L. (2023). Genesis, modelling, and remedies for the heterogeneity of autism research. *Neuroscience & Biobehavioral Reviews*, 148, 105139. doi:10.1016/j.neubiorev.2023.105139
+Rabot, J., Bherer, C., & Mottron, L. (2023). Genesis, modelling, and remedies for the heterogeneity of autism research. *Neuroscience & Biobehavioral Reviews*, 148, 105139. doi:10.1016/j.neubiorev.2023.105201

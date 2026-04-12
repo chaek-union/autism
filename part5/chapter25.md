@@ -27,6 +27,6 @@
 
 **References**
 
-Darbandi, S. F., An, J.-Y., Lim, K., Page, N. F., Liang, L., Young, D. M., ... & Rubenstein, J. L. R. (2024). Five autism-associated transcriptional regulators target shared loci proximal to brain-expressed genes. *Cell Reports*, 43(3), 113891. doi:10.1016/j.celrep.2024.113891
+Darbandi, S. F., An, J.-Y., Lim, K., Page, N. F., Liang, L., Young, D. M., ... & Rubenstein, J. L. R. (2024). Five autism-associated transcriptional regulators target shared loci proximal to brain-expressed genes. *Cell Reports*, 43(3), 113891. doi:10.1016/j.celrep.2024.114329
 
 Satterstrom, F. K., Kosmicki, J. A., Wang, J., Breen, M. S., De Rubeis, S., An, J.-Y., ... & Buxbaum, J. D. (2020). Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism. *Cell*, 180(3), 568-584. doi:10.1016/j.cell.2019.12.036

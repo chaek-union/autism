@@ -44,4 +44,4 @@ Rødgaard, E.-M., Jensen, K., Vergnes, J.-N., Soulières, I., & Mottron, L. (201
 
 Rødgaard, E.-M., et al. (2024). Clinical correlates of diagnostic certainty in autism spectrum disorder. *Journal of Autism and Developmental Disorders*. doi:10.1007/s10803-024-06289-9
 
-Zhang, H., et al. (2025). Polygenic and developmental profiles of autism differ by age at diagnosis. *Nature*. doi:10.1038/s41586-025-08901-3
+Zhang, H., et al. (2025). Polygenic and developmental profiles of autism differ by age at diagnosis. *Nature*. doi:10.1038/s41586-025-09542-6

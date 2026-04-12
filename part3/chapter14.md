@@ -18,6 +18,6 @@
 
 **References**
 
-Sanders, S. J., Neale, B. M., Huang, H., Werling, D. M., An, J.-Y., Dong, S., ... & Buxbaum, J. D. (2017). Whole genome sequencing in psychiatric disorders: The WGSPD consortium. *Nature Neuroscience*, 20(12), 1661-1668. doi:10.1038/s41593-017-0017-9
+Sanders, S. J., Neale, B. M., Huang, H., Werling, D. M., An, J.-Y., Dong, S., ... & Buxbaum, J. D. (2017). Whole genome sequencing in psychiatric disorders: The WGSPD consortium. *Nature Neuroscience*, 20(12), 1661-1668. doi:10.1038/nn.4602
 
 Trost, B., Thiruvahindrapuram, B., Chan, A. J. S., Engchuan, W., Higginbotham, E. J., Howe, J. L., ... & Scherer, S. W. (2022). Genomic architecture of autism from comprehensive whole-genome sequence annotation. *Cell*, 185(23), 4409-4427. doi:10.1016/j.cell.2022.10.009

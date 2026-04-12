@@ -36,6 +36,6 @@
 
 **References**
 
-Joshi, G., et al. (2025). Memantine for social communication in autism: A randomized controlled trial. *JAMA Network Open*. doi:10.1001/jamanetworkopen.2025.1234
+Joshi, G., et al. (2025). Memantine for social communication in autism: A randomized controlled trial. *JAMA Network Open*.
 
 SPARK Consortium. (2018). SPARK: A US cohort of 50,000 families to accelerate autism research. *Neuron*, 97(3), 488-493. doi:10.1016/j.neuron.2018.01.015

@@ -19,10 +19,10 @@ Bargiela et al. (2016) 연구의 또 다른 중요한 발견은, 면접한 14명
 
 Bargiela, S., Steward, R., & Mandy, W. (2016). The experiences of late-diagnosed women with autism spectrum conditions: An investigation of the female autism phenotype. *Journal of Autism and Developmental Disorders*, 46(10), 3281-3294. doi:10.1007/s10803-016-2872-8
 
-Diemer, M. C., et al. (2025). A comparative analysis of autistic women and gender-diverse adults diagnosed in childhood versus adulthood. *Autism Research*. doi:10.1002/aur.3341
+Diemer, M. C., et al. (2025). A comparative analysis of autistic women and gender-diverse adults diagnosed in childhood versus adulthood. *Autism Research*. doi:10.1002/aur.70073
 
-Dufour, M.-M., et al. (2025). Five distinct pre-diagnostic trajectory types among adults receiving an autism diagnosis. *Autism*. doi:10.1177/13623613251314563
+Dufour, I., et al. (2025). Five distinct pre-diagnostic trajectory types among adults receiving an autism diagnosis. *Autism*. doi:10.1186/s11689-025-09627-3
 
-Harrop, C., et al. (2024). Twenty-year trends in autism diagnosis: North Carolina. *Journal of Autism and Developmental Disorders*. doi:10.1007/s10803-023-06165-4
+Harrop, C., et al. (2024). Twenty-year trends in autism diagnosis: North Carolina. *Journal of Autism and Developmental Disorders*. doi:10.1111/jcpp.13939
 
 Oshima, F., Takahashi, T., Tamura, M., Guan, S., Seto, M., Hull, L., ... & Shimizu, E. (2024). The association between social camouflage and mental health among autistic people in Japan and the UK: A cross-cultural study. *Molecular Autism*, 15(1), 5. doi:10.1186/s13229-023-00579-w
