@@ -1,0 +1,75 @@
+direction: right
+
+model-a: {
+  label: "모형 A\n미생물 원인 가설"
+  style.font-size: 16
+  style.fill: "#fff3e0"
+  style.border-radius: 8
+
+  microbiome: "장내 미생물 변화" {
+    style.fill: "#ffcc80"
+    style.border-radius: 6
+  }
+  asd: "자폐" {
+    style.fill: "#ef9a9a"
+    style.border-radius: 6
+  }
+  gi: "장 증상" {
+    style.fill: "#ef9a9a"
+    style.border-radius: 6
+  }
+
+  microbiome -> asd
+  microbiome -> gi
+}
+
+model-b: {
+  label: "모형 B\n역인과 가설"
+  style.font-size: 16
+  style.fill: "#e8f5e9"
+  style.border-radius: 8
+
+  asd: "자폐 행동 특성" {
+    style.fill: "#a5d6a7"
+    style.border-radius: 6
+  }
+  diet: "편식" {
+    style.fill: "#c8e6c9"
+    style.border-radius: 6
+  }
+  microbiome: "미생물\n다양성 감소" {
+    style.fill: "#c8e6c9"
+    style.border-radius: 6
+  }
+  gi: "장 증상" {
+    style.fill: "#c8e6c9"
+    style.border-radius: 6
+  }
+
+  asd -> diet
+  diet -> microbiome
+  microbiome -> gi
+}
+
+model-c: {
+  label: "모형 C\n공통 원인 가설"
+  style.font-size: 16
+  style.fill: "#e3f2fd"
+  style.border-radius: 8
+
+  genes: "유전 변이" {
+    style.fill: "#90caf9"
+    style.border-radius: 6
+  }
+  asd: "자폐" {
+    style.fill: "#bbdefb"
+    style.border-radius: 6
+  }
+  gi: "장 증상" {
+    style.fill: "#bbdefb"
+    style.border-radius: 6
+  }
+
+  genes -> asd
+  genes -> gi
+}
