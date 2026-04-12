@@ -30,12 +30,12 @@ K-ARC 연구의 일관된 전략은 한국 코호트에서 발견한 것을 국�
 
 Kim, S., Trost, B., Engchuan, W., Nguyen, C. Q., Wilfert, A. B., Backstrom, I., ... & An, J.-Y. (2022). Noncoding de novo mutations in chromatin interactions are implicated in autism spectrum disorder. *Molecular Psychiatry*, 27(11), 4680-4694. doi:10.1038/s41380-022-01697-2
 
-Kim, Y. J., Yoo, H., Lee, J., Park, S., An, J.-Y., ... & Kim, S. (2024). Whole-genome sequencing of autism spectrum disorder in a Korean cohort reveals sex-specific differences in familial transmission. *Genome Medicine*, 16(1), 85. doi:10.1186/s13073-024-01345-0
+Kim, S. W., Lee, H., Song, D. Y., Lee, G. H., Ji, J., Park, J. W., ... & An, J.-Y. (2024). Whole-genome sequencing of autism spectrum disorder in a Korean cohort reveals sex-specific differences in familial transmission. *Genome Medicine*, 16(1), 85. doi:10.1186/s13073-024-01345-0
 
-Kim, Y., Park, J., & An, J.-Y. (2024). Short tandem repeat expansions in cortical layer genes are associated with autism phenotypic severity. *Psychiatry and Clinical Neurosciences*, 78(10), 598-607. doi:10.1111/pcn.13712
+Kim, J. H., Koh, I. G., Lee, H., Lee, G. H., Song, D. Y., Kim, S. W., ... & An, J.-Y. (2024). Short tandem repeat expansions in cortical layer-specific genes implicate in phenotypic severity and adaptability of autism spectrum disorder. *Psychiatry and Clinical Neurosciences*, 78(10), 598-607. doi:10.1111/pcn.13676
 
-Kim, Y. J., Park, S., An, J.-Y., ... & Kim, S. (2024). CWAS-Plus: An integrative framework for category-wide association study of noncoding variants. *Briefings in Bioinformatics*, 25(4), bbae358. doi:10.1093/bib/bbae358
+Kim, Y., Jeong, M., Koh, I. G., Kim, C., Lee, H., Kim, J. H., ... & An, J.-Y. (2024). CWAS-Plus: An integrative framework for category-wide association study of noncoding variants. *Briefings in Bioinformatics*, 25(4), bbae358. doi:10.1093/bib/bbae358
 
-Kim, Y. J., Sanders, S. J., Werling, D. M., ... & An, J.-Y. (2025). Evaluation of familial phenotype deviation improves de novo variant-enriched gene discovery in autism spectrum disorder. *Genome Medicine*, 17(1), 12. doi:10.1186/s13073-025-01420-0
+Kim, S. W., Lee, H., Song, D. Y., Lee, G. H., Han, J. H., Lee, J. W., ... & An, J.-Y. (2025). Evaluation of familial phenotype deviation improves de novo variant-enriched gene discovery in autism spectrum disorder. *Genome Medicine*, 17(1), 12. doi:10.1186/s13073-025-01532-7
 
 Trost, B., Engchuan, W., Nguyen, C. M., Thiruvahindrapuram, B., Dolzhenko, E., Backstrom, I., ... & Scherer, S. W. (2020). Genome-wide detection of tandem DNA repeats that are expanded in autism. *Nature*, 586(7827), 80-86. doi:10.1038/s41586-020-2579-z
