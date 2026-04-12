@@ -1,6 +1,16 @@
 # Chapter 13. 일반 변이와 양적유전 구조
 
-자폐 유전학에서 가장 직관적으로 이해하기 어려운 개념 중 하나를 다루어야 할 때가 왔다. 자폐스펙트럼장애의 유전적 위험 중 가장 큰 비중을 차지하는 것은 극적인 효과를 가진 희귀 변이가 아니라, 인구에서 흔하게 관찰되며 개별적으로는 거의 효과가 없는 수천 개의 일반 변이(common variant)의 합산이라는 것이다.
+# 자폐는 가장 유전력이 높은 질환 중 하나다
+
+모든 인간 질환이 같은 정도로 유전의 영향을 받는 것은 아니다. 어떤 질환은 유전적 요인의 기여가 크고, 어떤 질환은 환경적 요인이 더 큰 역할을 한다. 유전력(heritability)이란 인구 집단에서 특정 질환의 발생 빈도 차이 중 유전적 요인으로 설명되는 비율을 의미하는데, Chapter 5에서 가족 내 재발 패턴을 통해 이미 소개한 바 있다. 그렇다면 자폐스펙트럼장애의 유전력은 다른 질환들과 비교할 때 어느 정도 수준일까?
+
+Wang et al. (2017) 연구는 이 질문에 대해 가장 포괄적인 비교를 제공한다. 미국의 건강보험 청구 기록(Truven MarketScan)에서 128,989개 가족, 481,657명의 개인 데이터를 추출하여, 가족 구성원 사이의 질환 동시 발생(co-occurrence) 패턴으로부터 560개 질환의 유전력을 추정했다. 쌍둥이 연구나 입양 연구가 아닌, 보험 기록에서 파악되는 1차 친척 관계를 이용한 것이다. 이 방법은 특정 질환에 초점을 맞추는 것이 아니라, 인간이 겪는 거의 모든 흔한 질환을 한 번에 비교할 수 있다는 장점이 있다.
+
+![Wang et al. (2017)의 유전력 추정. 560개 질환 중 자폐스펙트럼장애(ASD)의 유전력은 약 0.9로, 분석된 모든 질환 중 가장 높은 수준이었다. 제2형 당뇨(0.56), ADHD(0.76), 고혈압(0.46) 등과 비교된다. 원본 그림에서 수정. Wang et al. (2017) Nat Genet 49:1319–1325.](../images/ch13-wang-heritability-spiral.png)
+
+자폐스펙트럼장애의 유전력은 약 0.9, 즉 90%에 달했다. 이것은 분석된 560개 질환 중 가장 높은 수준이다. 비교하면 ADHD는 약 76%, 제2형 당뇨는 56%, 고혈압은 46%로 추정되었다. 유전력 90%라는 수치는 Chapter 5에서 소개한 스웨덴 가족 연구(Sandin et al. 2014)의 추정치 50%보다 상당히 높은데, 이 차이는 방법론에서 비롯된다. Sandin 연구가 추정한 것은 좁은 의미의 유전율(narrow-sense heritability), 즉 개별 유전 변이의 효과가 단순히 더해지는 부분(가산적 효과)만 포함한 것이다. 반면 Wang 연구를 비롯한 쌍둥이 연구들이 보고하는 높은 유전력은, 유전 변이 간의 상호작용이나 우성 효과까지 포함한 넓은 의미의 유전율(broad-sense heritability)에 가깝다. 어떤 추정 방법을 쓰든 결론은 같다. 자폐스펙트럼장애는 인간 질환 중에서 유전적 기여가 가장 큰 질환 중 하나다.
+
+그렇다면 이 높은 유전력을 구성하는 유전적 요인은 무엇일까? Part 3의 앞선 장들에서 다룬 신생 구조 변이(Chapter 10), 신생 코딩 변이(Chapter 11), 유전되는 희귀 변이(Chapter 12)는 모두 개별 가족에서 강한 효과를 가진 변이들이다. 하지만 인구 수준에서 이 변이들이 설명하는 유전력의 비율은 전체의 일부에 불과하다. 유전력의 대부분을 구성하는 것은, 직관적으로는 이해하기 어렵지만, 개별적으로는 거의 효과가 없는 수천 개의 일반 변이(common variant)의 합산이다.
 
 이 개념을 이해하기 위해 키를 생각해보자. 한 사람의 키가 180cm인 이유를 단 하나의 "키 유전자"로 설명할 수 있을까? 그렇지 않다. 인간의 키에 영향을 미치는 유전적 요인은 수천 개에 달하며, 각각은 키를 1mm 정도 높이거나 낮추는 아주 작은 효과를 가진다. 어떤 사람이 유난히 키가 큰 이유는, 이 수천 개의 작은 효과 중에서 키를 높이는 방향으로 작용하는 변이가 우연히 많이 모여 있기 때문이다. 이렇게 하나의 특성이 많은 수의 유전 변이에 의해 결정되는 구조를 양적유전(polygenic) 구조라 부른다. '다유전자'라는 번역어를 흔히 쓰기도 하지만, 이 말은 유전자가 여러 개라는 뜻으로 오해를 불러일으킨다. 실제로는 유전자가 아니라 유전 변이가 여러 개 관여하는 것이므로, 양적유전이 더 정확한 표현이다.
 
@@ -50,5 +60,7 @@ Anney, R., Klei, L., Pinto, D., Almeida, J., Bacchelli, E., Baird, G., ... & Dev
 Gaugler, T., Klei, L., Sanders, S. J., Bodea, C. A., Goldberg, A. P., Lee, A. B., ... & Buxbaum, J. D. (2014). Most genetic risk for autism resides with common variation. *Nature Genetics*, 46(8), 881-885. doi:10.1038/ng.3039
 
 Grove, J., Ripke, S., Als, T. D., Mattheisen, M., Walters, R. K., Won, H., ... & Børglum, A. D. (2019). Identification of common genetic risk variants for autism spectrum disorder. *Nature Genetics*, 51(3), 431-444. doi:10.1038/s41588-019-0344-8
+
+Wang, K., Gaitsch, H., Poon, H., Cox, N. J., & Rzhetsky, A. (2017). Classification of common human diseases derived from shared genetic and environmental determinants. *Nature Genetics*, 49(9), 1319-1325. doi:10.1038/ng.3903
 
 Weiner, D. J., Wigdor, E. M., Ripke, S., Walters, R. K., Kosmicki, J. A., Grove, J., ... & Robinson, E. B. (2017). Polygenic transmission disequilibrium confirms that common and rare variation act additively to create risk for autism spectrum disorders. *Nature Genetics*, 49(7), 978-985. doi:10.1038/ng.3863
