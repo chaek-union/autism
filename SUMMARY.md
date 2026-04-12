@@ -13,7 +13,7 @@
 
 ## Part 2. 코호트의 시대, 빅데이터의 등장
 
-* [Chapter 6. 심플렉스 가족과 사이먼즈 재단](part2/chapter6.md)
+* [Chapter 6. 심플렉스 가족과 SFARI 재단](part2/chapter6.md)
 * [Chapter 7. 5만 가족의 시대 — SPARK와 대규모 코호트](part2/chapter7.md)
 * [Chapter 8. 자폐 시퀀싱 컨소시엄과 국제 협력](part2/chapter8.md)
 * [Chapter 9. 한국의 자폐 코호트 — K-ARC의 여정](part2/chapter9.md)
