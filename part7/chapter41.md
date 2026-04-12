@@ -2,7 +2,7 @@
 
 자폐스펙트럼장애에 대한 약물 치료의 역사는, 솔직히 말하면, 실패의 역사에 가깝다. 이것은 비관적인 선언이 아니라 정직한 현황 보고다. 2026년 현재, 자폐의 핵심 증상(사회적 소통의 어려움, 반복 행동)을 개선하는 것으로 확인된 약물은 존재하지 않는다. FDA가 자폐와 관련하여 승인한 약물은 리스페리돈(risperidone)과 아리피프라졸(aripiprazole) 두 가지뿐인데, 이것들도 자폐의 핵심 증상이 아니라 과민성(irritability), 즉 공격성과 자해 행동을 줄이기 위한 것이다. 자폐 자체를 치료하는 약은 아직 없다.
 
-왜 이렇게 어려운 것인가? 그리고 지금까지 어떤 시도가 있었으며, 그 시도에서 무엇을 배웠는가? 이 장에서 이 질문을 다룬다. 이후 장에서 다루는 유전자 수준의 정밀 치료(ASO)와 구분하기 위해, 여기서는 특정 유전자를 표적으로 하지 않는 기전 기반 약물 치료를 다룬다.
+왜 이렇게 어려운 것인가? 그리고 지금까지 어떤 시도가 있었으며, 그 시도에서 무엇을 배웠는가? 이 장에서 이 질문을 다룬다. 이후 장에서 다루는 유전자 수준의 정밀 치료(ASO)와 구분하기 위해, 여기서는 특정 유전자를 표적으로 하지 않는 기전 기반 약물 치료를 다룬다. Persico et al. (2025) 연구는 자폐 아동과 청소년을 대상으로 수행된 115건의 무작위 대조 시험을 체계적으로 정리하여, 133개의 약리학적 화합물과 건강 보조 식품을 평가했다. 이 리뷰가 보여주는 전체적 풍경은, 전임상 단계에서 가장 유망해 보였던 약물들(부메타나이드, 발로밥탄, 아바클로펜)이 대규모 시험에서 반복적으로 실패했다는 것이다.
 
 
 # 시도된 기전들
@@ -37,5 +37,7 @@
 **References**
 
 Joshi, G., et al. (2025). Memantine for social communication in autism: A randomized controlled trial. *JAMA Network Open*.
+
+Persico, A. M., et al. (2025). The pediatric psychopharmacology of autism spectrum disorder: A systematic review. *Progress in Neuro-Psychopharmacology and Biological Psychiatry*, 136, 111176. doi:10.1016/j.pnpbp.2024.111176
 
 SPARK Consortium. (2018). SPARK: A US cohort of 50,000 families to accelerate autism research. *Neuron*, 97(3), 488-493. doi:10.1016/j.neuron.2018.01.015

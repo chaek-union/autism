@@ -29,6 +29,6 @@ Sheikh et al. (2025) 연구는 이 주제에 대한 기존 체계적 리뷰 9개
 
 Ahlqvist, V. H., Sjöqvist, H., Dalman, C., Lichtenstein, P., Lundström, S., et al. (2024). Acetaminophen use during pregnancy and children's risk of autism, ADHD, and intellectual disability. *JAMA*, 331(14), 1205-1214. doi:10.1001/jama.2024.3172
 
-Berard, A., et al. (2026). Systematic review and meta-analysis of acetaminophen exposure during pregnancy and childhood neurodevelopmental outcomes. *Journal of the American Academy of Child and Adolescent Psychiatry*. (in press)
+Berard, A., et al. (2026). Systematic review and meta-analysis of acetaminophen exposure during pregnancy and childhood neurodevelopmental outcomes. *Journal of the American Academy of Child and Adolescent Psychiatry*. doi:10.1016/j.jaac.2025.05.028
 
-Sheikh, A. S., et al. (2025). Maternal paracetamol (acetaminophen) use during pregnancy and offspring neurodevelopment: An umbrella review with AMSTAR 2 appraisal. *BMJ Open*, 15, e086752.
+Sheikh, A. S., et al. (2025). Maternal paracetamol (acetaminophen) use during pregnancy and offspring neurodevelopment: An umbrella review with AMSTAR 2 appraisal. *BMJ*, 388, e088141. doi:10.1136/bmj-2025-088141

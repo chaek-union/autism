@@ -9,7 +9,7 @@
 
 Matson and Kozlowski (2011) 연구는 유병률 증가의 원인으로 작용할 수 있는 여러 방법론적 요인을 정리한다. 가장 큰 요인은 진단 기준의 확대다. Chapter 1에서 다루었듯이, DSM-III에서 DSM-IIIR로, DSM-IIIR에서 DSM-IV로, DSM-IV에서 DSM-5로 진단 기준이 넓어질 때마다 새로운 인구가 진단 범주 안으로 들어왔다. 아스퍼거 장애의 도입(DSM-IV, 1994)은 언어 발달이 정상이면서 사회적 어려움을 보이는 사람들을 포함시켰고, PDD-NOS는 전형적인 자폐의 기준을 완전히 충족하지 않는 사례들까지 진단 가능하게 만들었다. 이전에는 "조금 특이한 아이"로만 여겨졌을 사람들이 새로운 진단명 아래로 들어오게 된 것이다.
 
-두 번째 요인은 인식의 증가다. 부모, 교사, 소아과 의사 등 아이들과 접하는 사람들 사이에서 자폐에 대한 인식이 높아지면서, 이전에는 진단을 받지 않았을 경미한 사례들이 의료 체계 안으로 들어오게 되었다. 미디어의 역할도 크다. 영화, 드라마, 책에서 자폐가 다루어지면서 "혹시 우리 아이도?"라는 질문이 늘어나고, 이것이 진료실 방문과 진단으로 이어진다. 특히 인터넷의 보급 이후 자폐 관련 정보에 대한 접근성이 크게 높아졌고, 성인 자가 진단(self-identification)의 비율도 증가했다.
+두 번째 요인은 인식의 증가다. 부모, 교사, 소아과 의사 등 아이들과 접하는 사람들 사이에서 자폐에 대한 인식이 높아지면서, 이전에는 진단을 받지 않았을 경미한 사례들이 의료 체계 안으로 들어오게 되었다. 미디어의 역할도 크다. 영화, 드라마, 책에서 자폐가 다루어지면서 "혹시 우리 아이도?"라는 질문이 늘어나고, 이것이 진료실 방문과 진단으로 이어진다. 특히 인터넷의 보급 이후 자폐 관련 정보에 대한 접근성이 크게 높아졌고, 성인 자가 진단(self-identification)의 비율도 증가했다. 이 인식 변화와 맞물려 성인기에 처음 자폐 진단을 받는 사례도 크게 늘고 있다. Dufour et al. (2025) 연구는 캐나다 퀘벡주에서 성인기에 처음 자폐 진단을 받은 2,799명의 진단 경로를 추적했는데, 이들의 절반은 18~36세 사이에, 4분의 1은 53세 이후에 처음 진단을 받았다. 가장 큰 집단(63.8%)은 이전 정신건강 서비스 이용이 적었던 사람들이었지만, 더 작은 집단에서는 수년간 불안장애, 우울장애, 조현병 스펙트럼 장애, 양극성 장애 등의 진단을 받으며 정신건강 서비스를 이용하다가 뒤늦게 자폐가 확인되었다. 이것은 다른 정신건강 진단이 자폐를 가리는 진단적 가려짐(diagnostic overshadowing) 현상을 대규모 자료에서 보여준 것으로, 유병률 상승의 한 요인이 이전에 다른 진단명으로 분류되어 있던 성인들이 자폐로 재확인되고 있기 때문일 수 있음을 시사한다.
 
 세 번째 요인은 진단 대체(diagnostic substitution)다. 이전에 지적장애로 진단받았던 아이들 중 상당수가, 진단 기준이 변화하면서 자폐스펙트럼장애로 재분류되었다. 미국의 특수교육 통계를 보면, 자폐로 분류된 학생 수가 증가하는 시기에 지적장애로 분류된 학생 수가 감소하는 패턴이 관찰된다. 질환이 새로 생긴 것이 아니라 같은 아이들의 진단명이 바뀐 것이다.
 
@@ -49,5 +49,7 @@ Miller, M., Musser, E. D., Young, G. S., Olson, B., Steiner, R. D., & Nigg, J. T
 Mottron, L. (2021). A radical change in our autism research strategy is needed: Back to prototypes. *Autism Research*, 14(10), 2213-2220. doi:10.1002/aur.2494
 
 Sandin, S., Lichtenstein, P., Kuja-Halkola, R., Larsson, H., Hultman, C. M., & Reichenberg, A. (2014). The familial risk of autism. *JAMA*, 311(17), 1770-1777. doi:10.1001/jama.2014.4144
+
+Dufour, I., Chiu, Y., Brodeur, S., Courteau, M., Courteau, J., Dube, E., Lesage, A., Fombonne, E., & Couture, M. (2025). Pathways to autism diagnosis in adulthood. *Journal of Neurodevelopmental Disorders*, 17, 15. doi:10.1186/s11689-025-09627-3
 
 Sandin, S., Schendel, D., Magnusson, P., Hultman, C., Surén, P., Susser, E., ... & Reichenberg, A. (2016). Autism risk associated with parental age and with increasing difference in age between the parents. *Molecular Psychiatry*, 21(5), 693-700. doi:10.1038/mp.2015.70

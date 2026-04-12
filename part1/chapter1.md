@@ -27,7 +27,7 @@ DSM은 이후에도 계속 변화했다. 1987년의 DSM-IIIR은 진단 기준을
 
 자폐스펙트럼장애는 혈액 검사나 뇌 영상으로 진단할 수 있는 조건이 아니다. 생체지표(biomarker)가 존재하지 않으며, 진단은 전적으로 행동의 관찰과 발달력의 평가에 의존한다. DSM-5의 두 핵심 영역 외에도, 자폐를 가진 사람들의 90% 이상이 감각 처리의 특이성을 보인다는 점도 중요하다(Leekam et al. 2007). 특정 소리에 극도로 예민하거나, 옷의 촉감을 견디기 어렵거나, 특정 냄새에 강하게 반응하는 것이 그 예다. DSM-5는 이를 반영하여 제한적이고 반복적인 행동 영역에 감각 반응의 과민성 또는 둔감성을 포함시켰다. 이것은 자폐 진단이 주관적이라는 뜻은 아니다. 수십 년에 걸쳐 정교한 표준화 도구들이 개발되어왔고, 이 도구들이 진단의 신뢰도를 높여왔다. 하지만 도구의 종류와 적용 방식이 달라지면 누가 진단을 받는지도 달라질 수 있다는 점에서, 진단 도구를 이해하는 것은 자폐 연구 전체를 이해하는 데 필수적이다.
 
-자폐의 조기 발견에 가장 널리 사용되는 선별 도구(screening tool)는 M-CHAT(Modified Checklist for Autism in Toddlers)이다. M-CHAT은 16~30개월 영유아를 대상으로 보호자가 작성하는 20문항의 설문지다. "아이가 다른 아이들에게 관심을 보이나요?", "아이에게 무언가를 가리키면 그쪽을 보나요?" 같은 질문들로 구성되어 있다. 선별 도구의 목적은 자폐를 확정 진단하는 것이 아니라, 추가 평가가 필요한 아이를 걸러내는 것이다. M-CHAT의 개선판인 M-CHAT-R/F(Revised with Follow-up)는 양성으로 나온 항목에 대해 추가 면접을 수행하여 위양성(실제로는 자폐가 아닌데 양성으로 나오는 것)을 줄인다. 선별 도구는 어디까지나 첫 번째 그물이고, 여기서 걸러진 아이들이 전문 평가를 받아야 한다. 다만 이 그물이 완벽한 것은 아니다. 임상 현장의 데이터를 보면, 나중에 자폐 진단을 받는 아이 중 상당수가 M-CHAT 선별에서 음성으로 나와 놓치는 경우가 있다. 선별 도구가 "걸러내는" 것이지 "확정하는" 것이 아니라는 점을 기억해야 한다.
+자폐의 조기 발견에 가장 널리 사용되는 선별 도구(screening tool)는 M-CHAT(Modified Checklist for Autism in Toddlers)이다. M-CHAT은 16~30개월 영유아를 대상으로 보호자가 작성하는 20문항의 설문지다. "아이가 다른 아이들에게 관심을 보이나요?", "아이에게 무언가를 가리키면 그쪽을 보나요?" 같은 질문들로 구성되어 있다. 선별 도구의 목적은 자폐를 확정 진단하는 것이 아니라, 추가 평가가 필요한 아이를 걸러내는 것이다. M-CHAT의 개선판인 M-CHAT-R/F(Revised with Follow-up)는 양성으로 나온 항목에 대해 추가 면접을 수행하여 위양성(실제로는 자폐가 아닌데 양성으로 나오는 것)을 줄인다. 선별 도구는 어디까지나 첫 번째 그물이고, 여기서 걸러진 아이들이 전문 평가를 받아야 한다. 다만 이 그물이 완벽한 것은 아니다. 임상 현장의 데이터를 보면, 나중에 자폐 진단을 받는 아이 중 상당수가 M-CHAT 선별에서 음성으로 나와 놓치는 경우가 있다. 선별 도구가 "걸러내는" 것이지 "확정하는" 것이 아니라는 점을 기억해야 한다. 한국에서는 국가 발달 선별검사인 K-DST(한국 영유아 발달선별검사)가 생후 14일부터 71개월까지 8차례에 걸쳐 발달을 감시하며, 12개월 이후에는 자폐 관련 항목이 포함되어 있다. 한국에서 개발된 BeDevel(행동발달 선별검사)은 반구조화된 놀이 관찰과 보호자 면접을 결합하여 영유아의 자폐를 선별하는 도구다. 다만 선별에서 이상 소견이 나온 아이가 실제로 소아정신과 전문의에게 의뢰되는 비율은 아직 낮다는 지적이 있어(Kim and Yoo 2024), 도구의 존재만으로 조기 진단이 보장되지 않는다는 점을 보여준다.
 
 전문 평가의 핵심이 되는 진단 도구(diagnostic tool)가 ADOS(Autism Diagnostic Observation Schedule)와 ADI-R(Autism Diagnostic Interview-Revised)이다. ADOS는 훈련받은 임상가가 아이와 직접 상호작용하면서 사회적 소통, 언어, 놀이, 반복 행동 등을 체계적으로 관찰하는 도구다. 아이의 언어 수준에 따라 네 가지 모듈 중 하나를 선택하여 사용하며, 약 40~60분이 소요된다. ADI-R은 보호자를 대상으로 하는 구조화된 면접으로, 아이의 발달력과 현재 행동을 약 1.5~2.5시간에 걸쳐 상세히 조사한다. ADOS가 현재 상태의 직접 관찰이라면, ADI-R은 과거부터 현재까지의 발달 경과를 보호자의 보고를 통해 파악하는 것이다. 두 도구를 함께 사용하는 것이 진단의 황금 표준(gold standard)으로 여겨진다.
 
@@ -52,5 +52,7 @@ Evans, B. (2013). How autism became autism: The radical transformation of a cent
 Happé, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward — changes in the concept of autism and implications for future research. *Journal of Child Psychology and Psychiatry*, 61(3), 218-232. doi:10.1111/jcpp.13176
 
 Lord, C., Elsabbagh, M., Baird, G., & Veenstra-Vanderweele, J. (2018). Autism spectrum disorder. *The Lancet*, 392(10146), 508-520. doi:10.1016/S0140-6736(18)31129-2
+
+Kim, J. I., & Yoo, H. J. (2024). Diagnosis and assessment of autism spectrum disorder. *Journal of the Korean Academy of Child and Adolescent Psychiatry*, 35(1), 3-11. doi:10.5765/jkacap.230009
 
 Rosen, N. E., Lord, C., & Volkmar, F. R. (2021). The diagnosis of autism: From Kanner to DSM-III to DSM-5 and beyond. *Journal of Autism and Developmental Disorders*, 51(12), 4253-4270. doi:10.1007/s10803-021-04904-1

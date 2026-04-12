@@ -46,7 +46,7 @@ De Rubeis et al. (2014) 연구는 3,871명의 자폐 환자와 9,937명의 대�
 
 **References**
 
-GALA Consortium. (2026). Deleterious coding variation associated with autism is shared across diverse populations. *Nature Genetics*. doi:10.1038/s41591-026-04228-6
+GALA Consortium. (2026). Deleterious coding variation associated with autism is shared across ancestries. *Nature Medicine*. doi:10.1038/s41591-026-04228-6
 
 De Rubeis, S., He, X., Goldberg, A. P., Poultney, C. S., Samocha, K., Cicek, A. E., ... & Buxbaum, J. D. (2014). Synaptic, transcriptional and chromatin genes disrupted in autism. *Nature*, 515(7526), 209-215. doi:10.1038/nature13772
 

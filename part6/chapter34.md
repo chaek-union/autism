@@ -27,4 +27,4 @@ Tang et al. (2014) 연구는 mTOR 경로의 이상에 의한 시냅스 가지치
 
 Tang, G., Gudsnuk, K., Kuo, S. H., Cotrina, M. L., Rosoklija, G., Sosunov, A., ... & Bhatt, D. (2014). Loss of mTOR-dependent macroautophagy causes autistic-like synaptic pruning deficits. *Neuron*, 83(5), 1131-1143. doi:10.1016/j.neuron.2014.07.040
 
-Wu, J., et al. (2024). Microglial over-pruning of synapses drives altered neural circuit function in an autism-associated gene knockout model. *Nature Neuroscience*, 27, 1532-1543. doi:10.1038/s41380-024-02518-4
+Wu, Q., Bhatt, R., et al. (2024). Microglial over-pruning of synapses during development in autism-associated SCN2A-deficient mice and human cerebral organoids. *Molecular Psychiatry*. doi:10.1038/s41380-024-02518-4

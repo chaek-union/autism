@@ -22,6 +22,8 @@ Chapter 1에서 ADOS와 ADI-R이라는 황금 표준 도구를 소개했다. 이
 
 현실은 아마도 이 두 관점 모두를 필요로 한다. 자폐스펙트럼장애라는 진단 범주 안에는 단일 유전자의 강한 효과로 인해 발생하는 사례와, 수천 개의 약한 유전적 효과가 누적되어 역치를 넘는 사례가 공존하고 있다. 전자는 범주적 모델에 더 잘 부합하고, 후자는 차원적 모델에 더 잘 부합한다. 문제는 이 두 유형이 같은 진단명 아래에 섞여 있을 때 발생한다. 연구자가 자폐스펙트럼장애 코호트를 모집하면 이 이질적인 집단이 하나의 표본에 들어오게 되고, 집단 수준의 분석에서 개별적 차이가 평균 속에 묻혀버린다.
 
+이 두 관점을 구체적으로 통합하려는 시도가 있다. Mottron and Gagnon (2023) 연구는 '원형적 자폐(prototypical autism)'라는 개념을 제안했다. 2~5세 사이에 사회적 정보에 대한 처리 편향의 부재, 복잡한 비사회적 정보에 대한 강한 관심, 온전한 운동 발달과 대비되는 구어 발달의 정체 등 질적으로 구분 가능한 특징을 보이는 집단이 있다는 것이다. 이 집단은 전체 인구의 약 1%에 해당하며, 가족 내 집적이 있고, 유해한 신생변이 없이도 나타난다. 이후 발표된 연구(Mottron et al. 2025)는 이 원형적 자폐를 쌍둥이, 왼손잡이, 둔위(역자, 逆子) 출산과 같은 범주에 놓았다. 이들은 모두 연속적인 유전적 소인으로부터 비연속적인 표현형이 발생하는 '비대칭 발달 분기(asymmetric developmental bifurcation)'의 사례라는 것이다. 왼손잡이의 빈도가 인구의 약 10%로 오랫동안 안정적이듯, 원형적 자폐의 빈도도 약 1%로 안정적일 수 있다는 관점이다. 이 관점에서 원형적 자폐는 범주적이다. 하지만 DSM-5가 포괄하는 넓은 자폐스펙트럼은 이 원형에서 벗어난 다양한 개인들을 포함하고 있으며, 이 확장된 집단에서의 자폐적 특성은 차원적으로 분포한다. 진단 기준이 넓어지면서 원형적 자폐와 비원형적 자폐가 한 범주에 혼합되는 현상이 바로 다음에 살펴볼 효과 크기 감소의 배경이기도 하다.
+
 
 # 효과 크기의 감소가 말해주는 것
 
@@ -43,5 +45,9 @@ Lord, C., Elsabbagh, M., Baird, G., & Veenstra-Vanderweele, J. (2018). Autism sp
 Rødgaard, E.-M., Jensen, K., Vergnes, J.-N., Soulières, I., & Mottron, L. (2019). Temporal changes in effect sizes of studies comparing individuals with and without autism: A meta-analysis. *JAMA Psychiatry*, 76(11), 1124-1132. doi:10.1001/jamapsychiatry.2019.1956
 
 Rødgaard, E.-M., et al. (2024). Clinical correlates of diagnostic certainty in autism spectrum disorder. *Journal of Autism and Developmental Disorders*. doi:10.1007/s10803-024-06289-9
+
+Mottron, L., & Gagnon, D. (2023). Prototypical autism: New diagnostic criteria and asymmetrical bifurcation model. *Acta Psychologica*, 237, 103938. doi:10.1016/j.actpsy.2023.103938
+
+Mottron, L., Lavigne-Champagne, A., Bernhardt, B., Dumas, G., Jacquemont, S., & Gagnon, D. (2025). Asymmetric developmental bifurcations in polarized environments: A new class of human variants, which may include autism. *Molecular Psychiatry*. doi:10.1038/s41380-025-03275-8
 
 Zhang, H., et al. (2025). Polygenic and developmental profiles of autism differ by age at diagnosis. *Nature*. doi:10.1038/s41586-025-09542-6

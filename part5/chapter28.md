@@ -34,6 +34,10 @@ Part 5를 마무리하면서, 지금까지 다룬 수렴을 정리해보자. 수
 
 **References**
 
+Fu, J. M., Satterstrom, F. K., Peng, M., Brand, H., Collins, R. L., Dong, S., ... & Talkowski, M. E. (2022). Rare coding variation provides insight into the genetic architecture and phenotypic context of autism. *Nature Genetics*, 54(9), 1320-1331. doi:10.1038/s41588-022-01104-0
+
+Kim, J. H., Koh, I. G., Lee, H., & An, J.-Y. (2024). Short tandem repeat expansions in cortical layer-specific genes implicate in phenotypic severity and adaptability of autism spectrum disorder. *Psychiatry and Clinical Neurosciences*, 78(10), 598-607. doi:10.1111/pcn.13676
+
 Satterstrom, F. K., Kosmicki, J. A., Wang, J., Breen, M. S., De Rubeis, S., An, J.-Y., ... & Buxbaum, J. D. (2020). Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism. *Cell*, 180(3), 568-584. doi:10.1016/j.cell.2019.12.036
 
 Voineagu, I., Wang, X., Johnston, P., Lowe, J. K., Tian, Y., Horvath, S., ... & Geschwind, D. H. (2011). Transcriptomic analysis of autistic brain reveals convergent molecular pathology. *Nature*, 474(7351), 380-384. doi:10.1038/nature10110

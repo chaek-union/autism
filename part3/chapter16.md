@@ -9,6 +9,8 @@
 
 Trost et al. (2020) 연구는 MSSNG, SSC, 1000 Genomes Project의 17,231개 유전체 데이터에서 반복 서열 확장을 유전체 전체 수준으로 분석한 최초의 대규모 연구다. 이 연구는 2~20 염기쌍 단위의 37,865개 반복 서열 모티프를 탐지했고, 그중 약 42%는 이전에 보고된 적이 없는 것이었다. 전체적으로 희귀한 유전자 관련 반복 서열 확장이 자폐 환자의 23.3%에서 관찰된 반면, 영향받지 않은 형제에서는 20.7%로, 자폐 환자에서 유의하게 높았다. 이 차이는 반복 서열 확장이 집단적으로 자폐 위험의 약 2.6%에 기여한다는 추정으로 이어졌다. DMPK(근긴장성 이영양증의 원인 유전자), FXN(프리드라이히 운동실조증), FGF14(소뇌 운동실조증), CACNB1(칼슘 채널 서브유닛) 같은 좌위에서 확장이 관찰되었고, 확장을 가진 환자는 그렇지 않은 환자에 비해 IQ가 낮고 적응 행동 점수가 떨어지는 경향이 있었다.
 
+Trost et al. 연구가 정상 범위를 크게 벗어난 반복 서열 확장에 초점을 맞추었다면, Mitra et al. (2021) 연구는 다른 각도에서 접근했다. 이 연구는 SSC의 1,637개 4인 가족에서, 부모에게는 없고 자녀에게서 새로 발생한 반복 서열 변이, 즉 반복 횟수가 한두 단위씩 늘거나 줄어드는 신생 단축 반복 변이를 유전체 전체 수준에서 분석했다. 이를 위해 MonSTR이라는 신생 반복 서열 변이 탐지 도구와 SISTR이라는 자연 선택 계수 추정 도구를 새로 개발했다. 유전체 전체로 보면 자폐 환자에서의 과잉은 작았지만(상대 위험도 1.03), 태아기 뇌의 프로모터와 인핸서에 위치한 변이만 보면 과잉이 1.67배로 뛰었고, 자연 선택에 의해 가장 강하게 제한되는 좌위에서 희귀한 반복 수를 만들어내는 변이로 한정하면 2.5배까지 증가했다. FOXP1, KCNB1, MED13L 같은 자폐 위험 유전자들이 이 분석에서 후보로 부상했다. Trost의 연구가 큰 확장을 찾았다면, Mitra의 연구는 작지만 반복적으로 일어나는 변이가 조절 영역에서 축적되어 자폐에 기여할 수 있다는 것을 보여준 셈이다.
+
 Kim et al. (2024) 연구는 이 발견을 한국 K-ARC 코호트의 634가족(2,104명)에서 독립적으로 재현하면서, 반복 서열 확장이 뇌의 어떤 세포 유형과 관련되는지를 추가로 탐구했다. 이 연구는 인간 사후 뇌의 단일 핵 RNA 시퀀싱 데이터와 ATAC-seq(크로마틴 접근성 측정) 데이터를 통합하여, 자폐에서 과잉된 반복 서열 확장이 피질 2/3층의 CUX2 양성 흥분성 뉴런 유전자와 4층의 시스-조절 요소(cis-regulatory element)에서 빈번하게 관찰된다는 것을 보여주었다. 피질 2/3층은 대뇌 피질의 바깥쪽에 위치한 층으로, 다른 피질 영역과의 장거리 연결을 담당하는 뉴런이 밀집해 있다. 이 영역의 유전자에서 반복 서열이 확장되어 있다는 것은, 피질 간 연결에 관여하는 뉴런의 기능이 반복 서열 확장에 의해 영향받을 수 있음을 시사한다. 또한 이 연구는 반복 서열 확장을 가진 환자에서 사회적 반응성 척도(SRS) 점수가 유의하게 높고(사회적 어려움이 더 심하다는 뜻) 바인랜드 적응 행동 척도(VABS) 점수가 유의하게 낮다는 것을 보여주어, 반복 서열 확장이 자폐의 표현형 심각도와 연관됨을 확인했다.
 
 이 연구가 중요한 이유는 두 가지다. 하나는 Trost et al. (2020) 연구가 유럽계 인구에서 보여준 반복 서열 확장의 기여를 한국 코호트에서 독립적으로 재현함으로써, 이것이 인구를 가리지 않는 교차 인종 위험 인자임을 보여준 것이다. 다른 하나는 반복 서열 확장을 단순히 유전체 수준의 통계로 보고하는 것을 넘어, 뇌의 특정 세포 유형과 피질 층에 대한 생물학적 맥락을 제공한 것이다. 유전 변이가 존재한다는 것과, 그 변이가 어디서 무엇에 영향을 미치는지를 아는 것은 완전히 다른 수준의 이해다.
@@ -23,5 +25,7 @@ Kim et al. (2024) 연구는 이 발견을 한국 K-ARC 코호트의 634가족(2,
 Liu, Q., & Tian, W. (2025). Association of human-specific expanded short tandem repeats with neuron-specific regulatory features. *Science Advances*, 11, eadp9707. doi:10.1126/sciadv.adp9707
 
 Kim, J. H., Koh, I. G., Lee, H., & An, J.-Y. (2024). Short tandem repeat expansions in cortical layer-specific genes implicate in phenotypic severity and adaptability of autism spectrum disorder. *Psychiatry and Clinical Neurosciences*, 78(10), 598-607. doi:10.1111/pcn.13676
+
+Mitra, I., Huang, B., Mousavi, N., Matt, N., Huang, S., Kumar, V., ... & Gymrek, M. (2021). Patterns of de novo tandem repeat mutations and their role in autism. *Nature*, 589(7841), 246-250. doi:10.1038/s41586-020-03078-7
 
 Trost, B., Engchuan, W., Nguyen, C. M., Thiruvahindrapuram, B., Dolzhenko, E., Backstrom, I., ... & Scherer, S. W. (2020). Genome-wide detection of tandem DNA repeats that are expanded in autism. *Nature*, 586(7827), 80-86. doi:10.1038/s41586-020-2579-z
