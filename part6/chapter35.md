@@ -25,7 +25,7 @@ Sheikh et al. (2025) 연구는 이 주제에 대한 기존 체계적 리뷰 9개
 이 사례는 역학 연구에서 관찰된 통계적 연관을 인과관계로 해석하는 것이 얼마나 위험한지를 보여주는 교훈적 사례다. 과학적 엄밀성이 부족한 주장이 공공 정책의 이름으로 확산되면, 임신부와 가족들에게 불필요한 불안과 혼란을 초래할 수 있다. 파트 6을 마무리하면서, 파트 7에서는 개별 유전자의 기능과 치료적 가능성으로 넘어간다.
 
 
-**References**
+**참고문헌**
 
 Ahlqvist, V. H., Sjöqvist, H., Dalman, C., Lichtenstein, P., Lundström, S., et al. (2024). Acetaminophen use during pregnancy and children's risk of autism, ADHD, and intellectual disability. *JAMA*, 331(14), 1205-1214. doi:10.1001/jama.2024.3172
 

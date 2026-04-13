@@ -30,7 +30,7 @@ Parikshak et al. (2015) 연구는 공발현 네트워크 분석의 방법론적 
 이러한 한계에도 불구하고, 유전자 공발현 네트워크 분석은 자폐 유전학에서 수렴을 발견하는 핵심 도구로 자리잡았다. 벌크 조직의 한계는 다음 장에서 다루는 단일 세포 유전체학이 해결하기 시작했다.
 
 
-**References**
+**참고문헌**
 
 Parikshak, N. N., Gandal, M. J., & Geschwind, D. H. (2015). Systems biology and gene networks in neurodevelopmental and neurodegenerative disorders. *Nature Reviews Genetics*, 16(8), 441-458. doi:10.1038/nrg3934
 

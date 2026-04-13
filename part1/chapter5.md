@@ -47,7 +47,7 @@ Constantino et al. (2013) 연구의 이복 형제 재발률 약 10%와 Miller et
 유병률 증가, 부모 연령의 영향, 가족 내 재발 패턴이라는 세 가지 역학적 관찰은 모두 같은 방향을 가리킨다. 자폐스펙트럼장애는 강한 유전적 기반을 가지고 있으며, 그 유전적 구조는 다양한 종류의 변이를 포함하는 복잡한 것이다. 유병률 증가의 상당 부분은 진단적 변화로 설명되지만, 부모 연령 증가에 의한 신생변이 축적 같은 생물학적 요인도 완전히 배제할 수는 없다. 이 유전적 구조를 실제로 해부하기 위해서는 대규모 코호트와 유전체 시퀀싱 기술이 필요했다. 파트 2에서는 그 기술적, 제도적 기반이 어떻게 구축되었는지를, 파트 3에서는 그 기반 위에서 발견된 유전 변이들의 지형도를 살펴본다.
 
 
-**References**
+**참고문헌**
 
 Constantino, J. N., Zhang, Y., Frazier, T., Abbacchi, A. M., & Law, P. (2013). Autism recurrence in half siblings: Strong support for genetic mechanisms of transmission in ASD. *Molecular Psychiatry*, 18(2), 137-138. doi:10.1038/mp.2012.9
 

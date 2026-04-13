@@ -29,7 +29,7 @@ BAP 연구가 축적되면서, 자폐적 특성이 인구 전체에 연속적으
 이 공존이 BAP 연구의 가치와 한계를 동시에 규정한다. BAP 연구는 자폐의 유전적 위험이 연속적이고 양적유전적이라는 것을 보여주는 데 기여했지만, 동시에 자폐스펙트럼장애 안에 BAP 모형으로 포착되지 않는 사례들이 존재한다는 것도 분명하다. 넓은 자폐 표현형이라는 개념은 자폐를 진단의 경계 너머로 확장하는 데 성공했지만, 그 확장이 과연 하나의 연속적인 실체를 가리키는 것인지, 아니면 서로 다른 원인을 가진 상태들이 표현형 수준에서 겹쳐 보이는 것인지는 여전히 열려 있는 질문이다. 다음 장에서는 이 이질성의 문제를 정면으로 다루면서, 하나의 자폐가 어떻게 여러 자폐로 분해되어 가는지를 살펴본다.
 
 
-**References**
+**참고문헌**
 
 Bishop, D. V., Maybery, M., Maley, A., Wong, D., Hill, W., & Hallmayer, J. (2008). Using self-report to identify the broad phenotype in parents of children with autistic spectrum disorders. *Journal of Child Psychology and Psychiatry*, 45(8), 1431-1436. doi:10.1111/j.1469-7610.2007.01817.x
 

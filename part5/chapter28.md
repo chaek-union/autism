@@ -32,7 +32,7 @@
 이 수렴은 자폐 유전학이 유전적 이질성이라는 벽 앞에서 멈추지 않고 전진할 수 있게 해주는 핵심 원리다. 유전적 원인이 1,000가지라 하더라도, 그것들이 교란하는 생물학적 과정은 소수로 수렴하며, 그 수렴 지점에서 자폐의 기전을 이해하고 치료 표적을 찾을 가능성이 열린다. 파트 6에서는 이 유전자들의 기능을 실험적으로 확인하기 위한 방법들, 사후 뇌 분석, 오가노이드, CRISPR 스크리닝, 모체 면역 활성화 모델을 살펴본다.
 
 
-**References**
+**참고문헌**
 
 Fu, J. M., Satterstrom, F. K., Peng, M., Brand, H., Collins, R. L., Dong, S., ... & Talkowski, M. E. (2022). Rare coding variation provides insight into the genetic architecture and phenotypic context of autism. *Nature Genetics*, 54(9), 1320-1331. doi:10.1038/s41588-022-01104-0
 
