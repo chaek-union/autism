@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "자폐 연구의 역사: 빅데이터와 바이오뱅크의 시대",
   "dependencies": {
-    "honkit": "^6.1.4"
+    "honkit": "^6.1.4",
+    "honkit-plugin-mermaid": "^0.1.4"
   },
   "scripts": {
     "build": "honkit build",

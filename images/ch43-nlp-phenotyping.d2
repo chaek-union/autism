@@ -1,0 +1,53 @@
+direction: right
+
+input: {
+  label: "임상 기록\n(4,272건 프랑스어\n임상 보고서)"
+  style.fill: "#e3f2fd"
+  style.border-radius: 8
+  style.font-size: 13
+}
+
+model: {
+  label: "언어 모형\n(FlauBERT\n1.38억 매개변수)"
+  style.fill: "#fff3e0"
+  style.border-radius: 8
+  style.font-size: 13
+}
+
+criteria: {
+  label: "DSM-5 기준별 변별력"
+  style.fill: "#fafafa"
+  style.border-radius: 8
+  style.font-size: 14
+
+  a: {
+    label: "A 기준\n사회적 소통"
+    style.fill: "#ffcdd2"
+    style.border-radius: 6
+    style.font-size: 12
+  }
+  b: {
+    label: "B 기준\n반복 행동·감각"
+    style.fill: "#c8e6c9"
+    style.border-radius: 6
+    style.font-size: 12
+  }
+
+  a -> b: "B가 A보다\n진단 변별력 높음" {
+    style.font-size: 11
+    style.stroke: "#2e7d32"
+    style.stroke-width: 2
+  }
+}
+
+insight: {
+  label: "발견\n임상의의 암묵적 직관을\n언어 모형이 역으로 드러냄"
+  style.fill: "#f3e5f5"
+  style.border-radius: 8
+  style.font-size: 12
+  style.italic: true
+}
+
+input -> model: "학습"
+model -> criteria: "문장별 주목도 분석"
+criteria -> insight
