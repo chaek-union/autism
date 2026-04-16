@@ -16,6 +16,8 @@
 
 Ahlqvist et al. (2024) 연구는 스웨덴의 248만 명 출생 코호트에 이 형제 비교를 적용했다. 전체 인구를 대상으로 한 분석에서는 아세트아미노펜 노출과 자폐(위험비 1.05) 및 ADHD(위험비 1.07) 사이에 약한 통계적 연관이 관찰되었다. 하지만 같은 데이터에 형제 비교를 적용하자, 자폐와 ADHD 모두에서 위험비가 0.98로 떨어졌다. 즉, 연관이 완전히 사라진 것이다. 이것은 전체 인구에서 관찰된 약한 연관이 진정한 약물 효과가 아니라 가족 수준의 교란에 의한 것이었음을 의미한다. 또한 용량-반응 관계(복용량이 많을수록 위험이 높아지는 패턴)도 형제 비교에서는 관찰되지 않았다. 인과관계가 있다면 복용량에 비례하여 위험이 높아져야 하는데, 그런 패턴이 없다는 것은 인과관계에 대한 추가적인 반증이다.
 
+이 결론은 다른 나라에서도 재확인되었다. Prahm et al. (2026) 연구는 덴마크의 전국 레지스트리에서 1997년부터 2022년까지 태어난 150만 명 이상의 단태아 출생 코호트를 분석했다. 이 중 31,098명(2.1%)이 임신 중 처방된 아세트아미노펜에 노출되었다. 전체 인구 분석에서 보정된 위험비는 1.03(95% 신뢰구간 0.95-1.12)으로 통계적으로 유의하지 않았고, 형제 비교 분석에서도 위험비는 1.09로 유의한 연관이 나타나지 않았다. 복용량이나 임신 삼분기에 따른 차이도 관찰되지 않았다. 스웨덴 코호트(Ahlqvist et al. 2024)와 덴마크 코호트(Prahm et al. 2026)라는 두 개의 독립적인 북유럽 전국 코호트에서 동일한 결론이 도출된 것이다.
+
 더 주목할 점은, 아세트아미노펜뿐 아니라 다른 모든 종류의 진통제(비스테로이드성 항염증제, 오피오이드, 편두통 약물)에서도 같은 패턴이 관찰되었다는 것이다. 전체 인구 분석에서는 약한 연관이 나타나지만 형제 비교에서는 사라진다. 만약 아세트아미노펜의 특정 약리학적 작용이 자폐를 유발하는 것이라면, 다른 약물에서도 같은 패턴이 나타날 이유가 없다. 모든 진통제에서 같은 패턴이 나타난다는 것은, 관찰된 연관이 약물의 효과가 아니라 "약을 복용해야 하는 상태에 있는 어머니"라는 공통 배경에 의한 교란임을 강하게 시사한다.
 
 Sheikh et al. (2025) 연구는 이 주제에 대한 기존 체계적 리뷰 9개를 평가했는데, AMSTAR 2라는 방법론적 엄격성 평가 도구를 적용한 결과 7개(78%)가 "심각하게 낮은 신뢰도(critically low confidence)"로 분류되었고, "보통 이상의 신뢰도"에 해당하는 리뷰는 하나도 없었다. Berard et al. (2026) 연구는 16개 연구를 통합 분석한 메타분석에서, ADHD에 대한 오즈비는 1.17(유의)이었지만 자폐에 대한 오즈비는 1.10으로 통계적으로 유의하지 않았다. 정량적 편향 분석(quantitative bias analysis)을 적용하면 ADHD 연관도 감쇠되었다.
@@ -28,6 +30,8 @@ Sheikh et al. (2025) 연구는 이 주제에 대한 기존 체계적 리뷰 9개
 **참고문헌**
 
 Ahlqvist, V. H., Sjöqvist, H., Dalman, C., Lichtenstein, P., Lundström, S., et al. (2024). Acetaminophen use during pregnancy and children's risk of autism, ADHD, and intellectual disability. *JAMA*, 331(14), 1205-1214. doi:10.1001/jama.2024.3172
+
+Prahm, K. P., Chen, P., Rode, L., Ekelund, C. K., Husby, K. R., Bergholt, T., Lidegaard, Ø., Scheller, N. M., & Mikkelsen, A. P. (2026). Acetaminophen exposure during pregnancy and the risk of autism in offspring. *JAMA Pediatrics*. doi:10.1001/jamapediatrics.2026.0646
 
 Berard, A., et al. (2026). Systematic review and meta-analysis of acetaminophen exposure during pregnancy and childhood neurodevelopmental outcomes. *Journal of the American Academy of Child and Adolescent Psychiatry*. doi:10.1016/j.jaac.2025.05.028
 
