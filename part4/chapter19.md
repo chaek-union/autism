@@ -27,7 +27,7 @@ Narita et al. (2020) 연구는 이 아이디어를 더 밀고 나갔다. SSC 코
 자폐스펙트럼장애의 이질성은 연구의 장애물이기도 하지만, 동시에 이질성을 이해하는 것 자체가 핵심 과학적 과제다. 이질성의 여러 차원 가운데 가장 오래되고 가장 일관되게 관찰되는 패턴은 성차다. 자폐 진단을 받는 남성이 여성보다 약 네 배 많다는 사실은, 표현형의 다양성을 이해하려는 시도에서 반드시 설명해야 할 핵심 현상이다.
 
 
-**참고문헌**
+## 참고문헌
 
 Fu, J. M., Satterstrom, F. K., Peng, M., Brand, H., Collins, R. L., Dong, S., ... & Talkowski, M. E. (2022). Rare coding variation provides insight into the genetic architecture and phenotypic context of autism. *Nature Genetics*, 54(9), 1320-1331. doi:10.1038/s41588-022-01104-0
 

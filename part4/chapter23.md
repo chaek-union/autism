@@ -29,7 +29,7 @@ Brainstorm Consortium (2018) 연구는 25개 뇌 질환의 GWAS 데이터를 모
 
 파트 4를 마무리하며 정리하면, 자폐스펙트럼장애의 다양성은 여러 층위에서 존재한다. 유전적 원인의 다양성(유전적 이질성), 같은 진단 안에서의 표현형 다양성(표현형 이질성), 성별에 따른 역치의 차이(성차), 동반 질환의 다양한 조합(동반 질환), 그리고 다른 정신 질환과의 유전적 겹침(교차 질환 유전 구조)까지.
 
-**참고문헌**
+## 참고문헌
 
 Brainstorm Consortium. (2018). Analysis of shared heritability in common disorders of the brain. *Science*, 360(6395), eaap8757. doi:10.1126/science.aap8757
 

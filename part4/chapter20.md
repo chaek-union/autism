@@ -24,7 +24,7 @@ Werling and Geschwind (2013) 연구는 이 모형과 경쟁하는 대안 가설,
 
 성차의 문제는 아직 풀리지 않았다. 여성 보호 효과가 존재한다는 분자적 증거는 강력하지만, 그 보호의 정체가 무엇이고 어떤 분자적 기전으로 작동하는지는 아직 밝혀지지 않았다. 자폐 유전학에서 가장 활발하게 연구되는 영역 중 하나가 여기이며, 성별에 따른 후성유전체 차이, 면역 반응의 차이, 미세아교세포 기능의 차이 등이 후보 기전으로 탐구되고 있다. 이 장에서 반복적으로 등장한 "역치"라는 개념, 즉 유전적 부담이 일정 수준을 넘어야 표현형이 나타난다는 아이디어는 성차만이 아니라 자폐의 유전적 구조 전체를 이해하는 핵심 틀이다.
 
-**참고문헌**
+## 참고문헌
 
 Dougherty, J. D., Marrus, N., Maloney, S. E., et al. (2022). Can the "female protective effect" liability threshold model explain sex differences in autism spectrum disorder? *Neuron*, 110(20), 3243-3262. doi:10.1016/j.neuron.2022.06.020
 

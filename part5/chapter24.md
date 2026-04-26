@@ -36,7 +36,7 @@ CHD8은 이 경로의 대표적인 유전자다. CHD8 단백질은 히스톤을 
 
 
 
-**참고문헌**
+## 참고문헌
 
 De Rubeis, S., He, X., Goldberg, A. P., Poultney, C. S., Samocha, K., Cicek, A. E., ... & Buxbaum, J. D. (2014). Synaptic, transcriptional and chromatin genes disrupted in autism. *Nature*, 515(7526), 209-215. doi:10.1038/nature13772
 

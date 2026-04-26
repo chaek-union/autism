@@ -53,7 +53,7 @@ DSM은 이후에도 계속 변화했다. 1987년의 DSM-IIIR은 진단 기준을
 
 
 
-**참고문헌**
+## 참고문헌
 
 Leekam, S. R., Nieto, C., Libby, S. J., Wing, L., & Gould, J. (2007). Describing the sensory abnormalities of children and adults with autism. *Journal of Autism and Developmental Disorders*, 37(5), 894-910. doi:10.1007/s10803-006-0218-7
 

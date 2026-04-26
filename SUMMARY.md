@@ -2,6 +2,7 @@
 
 * [들어가며](README.md)
 * [서문](getting-started.md)
+* [용어 길잡이](glossary.md)
 
 ## 파트 1. 자폐란 무엇인가
 
@@ -13,7 +14,7 @@
 
 ## 파트 2. 코호트의 시대, 빅데이터의 등장
 
-* [6장. 심플렉스 가족과 SFARI 재단](part2/chapter6.md)
+* [6장. 단발성 가족과 SFARI 재단](part2/chapter6.md)
 * [7장. 5만 가족의 시대 — SPARK와 대규모 코호트](part2/chapter7.md)
 * [8장. 자폐 시퀀싱 컨소시엄과 국제 협력](part2/chapter8.md)
 * [9장. 한국의 자폐 코호트 — K-ARC의 여정](part2/chapter9.md)

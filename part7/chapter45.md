@@ -14,7 +14,7 @@ Bargiela et al. (2016) 연구의 또 다른 중요한 발견은, 면접한 14명
 
 진단이 늦었다는 것은 단순히 시간의 문제가 아니다. 아동기에 적절한 지원을 받지 못한 수십 년이 축적된 결과로, 정신건강의 손상, 정체성의 혼란, 관계의 어려움이 복합적으로 쌓여 있다. 동시에, 늦은 진단이 전환점이 될 수도 있다. 자신이 왜 다른 사람들과 다르게 느꼈는지를 처음으로 이해하게 되면서, 자기 이해와 자기 수용이 시작될 수 있다. 이 양면성을 인식하고, 진단 후 적절한 정신건강 지원과 동료 연결을 제공하는 것이 늦은 진단 여성들에게 가장 필요한 일이다. 늦은 진단 여성들에게서 두드러지는 높은 불안과 우울 유병률은, 사실 자폐 성인 전체에 걸쳐 나타나는 정신건강 문제의 한 단면이다.
 
-**참고문헌**
+## 참고문헌
 
 Bargiela, S., Steward, R., & Mandy, W. (2016). The experiences of late-diagnosed women with autism spectrum conditions: An investigation of the female autism phenotype. *Journal of Autism and Developmental Disorders*, 46(10), 3281-3294. doi:10.1007/s10803-016-2872-8
 
